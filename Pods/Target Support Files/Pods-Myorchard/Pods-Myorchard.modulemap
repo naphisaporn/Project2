@@ -1,0 +1,6 @@
+framework module Pods_Myorchard {
+  umbrella header "Pods-Myorchard-umbrella.h"
+
+  export *
+  module * { export * }
+}

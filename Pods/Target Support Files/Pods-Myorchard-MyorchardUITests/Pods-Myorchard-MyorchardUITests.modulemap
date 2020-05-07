@@ -1,0 +1,6 @@
+framework module Pods_Myorchard_MyorchardUITests {
+  umbrella header "Pods-Myorchard-MyorchardUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
